@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project applicationId="dev.webfx.demo.memorygame" applicationLabel="Memory Game">
+
+    <exported-packages>
+        <source-packages/>
+        <resource-package>com.example.memorygame</resource-package>
+        <resource-package>com.example.memorygame.images</resource-package>
+    </exported-packages>
+
+    <dependencies>
+        <used-by-source-modules/>
+    </dependencies>
+
+    <providers>
+        <provider interface="javafx.application.Application">com.example.memorygame.Main</provider>
+    </providers>
+
+</project>
