@@ -91,7 +91,6 @@
                         <!-- Android -->
                         <appLabel>Memory Game</appLabel>
                     </releaseConfiguration>
-
                 </configuration>
             </plugin>
         </plugins>
